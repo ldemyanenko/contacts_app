@@ -4,7 +4,7 @@ A test assignment for the Eleven Systems company Flutter developer position appl
 
 ## Requirements
 
-[Initial requirements](requirements/Eleven Systems Test Flutter.pdf)
+[Initial requirements](requirements/Eleven%20Systems%20Test%20Flutter.pdf)
 
 Additional Requirements:
 
@@ -15,6 +15,15 @@ Database: Objectbox
 ## Implementation
 
 For ui inspiration I used  [this project](https://github.com/RogerioSobrinho/Flutter-ContactApp)
+
+
+## Results 
+![Contact list page](screenshots/contacts.PNG)
+![Add contact page](screenshots/add_contact.PNG)
+![Edit contact page](screenshots/edit_contact.PNG)
+![Removing contact](screenshots/remove_contact.PNG)
+![Contact details page](screenshots/view_contact.PNG)
+
 
 ## Running a project
 
