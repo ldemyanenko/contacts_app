@@ -25,7 +25,7 @@ For ui inspiration I used  [this project](https://github.com/RogerioSobrinho/Flu
 ![Contact details page](screenshots/view_contact.PNG)
 
 
-## Running a project
+## Running the project
 
 Flutter version used for the project:
 ```
