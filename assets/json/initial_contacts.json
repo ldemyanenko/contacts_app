@@ -1,0 +1,113 @@
+[
+  {
+    "contactID": "94cda55d-9a57-40af-b956-cc2d8be31f51",
+    "firstName": "John",
+    "lastName": "Doe",
+    "phoneNumber": "123-456-7890",
+    "streetAddress1": "123 Main St",
+    "streetAddress2": "",
+    "city": "Anytown",
+    "state": "CA",
+    "zipCode": "12345"
+  },
+  {
+    "contactID": "9f19a67d-971c-47f5-ba7c-3b3b3d6b7325",
+    "firstName": "Jane",
+    "lastName": "Doe",
+    "phoneNumber": "987-654-3210",
+    "streetAddress1": "456 Oak St",
+    "streetAddress2": "Apt 2",
+    "city": "Somewhere",
+    "state": "NY",
+    "zipCode": "54321"
+  },
+  {
+    "contactID": "b590ecb4-80c3-4288-a7b9-fa6c9d03333e",
+    "firstName": "Alice",
+    "lastName": "Smith",
+    "phoneNumber": "555-123-4567",
+    "streetAddress1": "789 Elm St",
+    "streetAddress2": "",
+    "city": "Anytown",
+    "state": "CA",
+    "zipCode": "12345"
+  },
+  {
+    "contactID": "f0f2f4cc-181e-46b9-9d90-8532678cbe8d",
+    "firstName": "Bob",
+    "lastName": "Jones",
+    "phoneNumber": "111-222-3333",
+    "streetAddress1": "2468 Maple Ave",
+    "streetAddress2": "",
+    "city": "Another Town",
+    "state": "TX",
+    "zipCode": "67890"
+  },
+  {
+    "contactID": "abbf840d-2e0a-436f-8ec2-e0f48e1846f9",
+    "firstName": "Emily",
+    "lastName": "Lee",
+    "phoneNumber": "777-888-9999",
+    "streetAddress1": "1357 Willow Dr",
+    "streetAddress2": "",
+    "city": "Mytown",
+    "state": "CA",
+    "zipCode": "12345"
+  },
+  {
+    "contactID": "2e166f99-aa91-44a6-99a6-9e9e0448b5e4",
+    "firstName": "David",
+    "lastName": "Kim",
+    "phoneNumber": "444-555-6666",
+    "streetAddress1": "369 Pine St",
+    "streetAddress2": "Unit 4",
+    "city": "Anytown",
+    "state": "CA",
+    "zipCode": "12345"
+  },
+  {
+    "contactID": "34467d62-50a2-46e3-9747-e65df10c4a72",
+    "firstName": "Jessica",
+    "lastName": "Nguyen",
+    "phoneNumber": "222-333-4444",
+    "streetAddress1": "1234 Oak Rd",
+    "streetAddress2": "",
+    "city": "Somewhere",
+    "state": "NY",
+    "zipCode": "54321"
+  },
+  {
+    "contactID": "1a469b70-9a50-43db-9e6d-0c9f62b0a6f7",
+    "firstName": "Sophia",
+    "lastName": "Wilson",
+    "phoneNumber": "777-777-7777",
+    "streetAddress1": "567 Cherry Ave",
+    "streetAddress2": "",
+    "city": "Anytown",
+    "state": "CA",
+    "zipCode": "12345"
+  },
+  {
+    "contactID": "07ed93f8-03e4-4c23-8c4e-3f8a6e99c925",
+    "firstName": "Michael",
+    "lastName": "Brown",
+    "phoneNumber": "888-888-8888",
+    "streetAddress1": "789 Pine St",
+    "streetAddress2": "Apt 5",
+    "city": "Somewhere",
+    "state": "NY",
+    "zipCode": "54321"
+  },
+  {
+    "contactID": "20af64c6-8d7b-43dd-a942-54589a0c9bcb",
+    "firstName": "Ethan",
+    "lastName": "Chen",
+    "phoneNumber": "999-999-9999",
+    "streetAddress1": "1234 Elm St",
+    "streetAddress2": "",
+    "city": "Anytown",
+    "state": "CA",
+    "zipCode": "12345"
+  }
+
+  ]

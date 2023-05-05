@@ -1,16 +1,33 @@
 # contacts_app
 
-A new Flutter project.
+A test assignment for the Eleven Systems company Flutter developer position application.
 
-## Getting Started
+## Requirements
 
-This project is a starting point for a Flutter application.
+[Initial requirements](requirements/Eleven Systems Test Flutter.pdf)
 
-A few resources to get you started if this is your first Flutter project:
+Additional Requirements:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+State Management: Flutter Bloc
+Navigation: Go Router
+Database: Objectbox
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Implementation
+
+For ui inspiration I used  [this project](https://github.com/RogerioSobrinho/Flutter-ContactApp)
+
+## Running a project
+
+Flutter version used for the project:
+```
+Flutter 3.3.2 • channel unknown • unknown source
+Framework • revision e3c29ec00c (8 months ago) • 2022-09-14 08:46:55 -0500
+Engine • revision a4ff2c53d8
+Tools • Dart 2.18.1 • DevTools 2.15.0
+```
+
+In order to regenerate ObjectBox model run 
+```
+flutter pub run build_runner watch --delete-conflicting-outputs 
+```
+
