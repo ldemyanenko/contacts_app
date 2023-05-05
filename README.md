@@ -18,11 +18,7 @@ For ui inspiration I used  [this project](https://github.com/RogerioSobrinho/Flu
 
 
 ## Results 
-![Contact list page](screenshots/contacts.PNG)
-![Add contact page](screenshots/add_contact.PNG)
-![Edit contact page](screenshots/edit_contact.PNG)
-![Removing contact](screenshots/remove_contact.PNG)
-![Contact details page](screenshots/view_contact.PNG)
+<img src='screenshots/contacts.PNG' width='150'> <img src='screenshots/view_contact.PNG' width='150'> <img src='screenshots/add_contact.PNG' width='150'> <img src='screenshots/edit_contact.PNG' width='150'> <img src='screenshots/remove_contact.PNG' width='150'> 
 
 
 ## Running the project
